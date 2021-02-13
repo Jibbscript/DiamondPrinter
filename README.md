@@ -1,2 +1,2 @@
-# PyramidPrinter
-PyramidPrinter written in C++17
+# DiamondPrinter
+DiamondPrinter written in C++17
